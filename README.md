@@ -1,2 +1,1 @@
-# Shill-Bidding-Detection-Auction-Price-Prediction
-This project provides a robust framework for fraud detection and auction optimization, offering actionable insights to improve transparency, pricing strategies, and user trust in online auction platforms like eBay.
+[Scammed_in_Australia_Group19_Report_final.docx](https://github.com/user-attachments/files/28163841/Scammed_in_Australia_Group19_Report_final.docx)
